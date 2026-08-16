@@ -2,7 +2,7 @@
 
 > Eigenständiges Singleplayer-Detektivspiel im X-Files-Stil.
 > Status: Rohfassung, bewusst ausbaufähig.
-> Letzter Merge: 2026-08-16 – Charakter-Details und Vertical-Slice-Logik aus dem privaten Repo übernommen.
+> Letzter Merge: 2026-08-16 14:16 UTC – vertical-slice automatisch synchronisiert
 
 ## Kernidee
 
