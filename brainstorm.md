@@ -36,6 +36,22 @@ Beispiel: „Ey, da ist ein Parkplatz. Vielleicht ist die Nummer auf deinem Unte
 
 Sobald du den Camaro mit dem passenden Schlüssel öffnest, meldet sich Scully sofort: „Okay, du hast zumindest den Camaro gefunden, also weiß ich, wer du bist.“
 
+## Dialog mit der inneren Stimme
+
+Die innere Stimme ist ein eigenständiger Charakter mit eigenem Eintrag im Log, eigener Farbe und eigener Stimme.
+Sie stellt dir gezielte Fragen, um dich weiterzubringen.
+Dazu erscheinen direkt unter ihrer Sprachausgabe im Chatfenster Antwort-Buttons (z. B. Ja/Nein oder kontextbezogene Optionen).
+Die Engine steuert die verfügbaren Buttons basierend auf dem aktuellen Spielzustand und den festen Fakten.
+Das LLM formuliert nur den Text der inneren Stimme.
+
+Ziel: Strukturierte Entscheidungen, die verhindern, dass man stecken bleibt – und gleichzeitig ein persönlicher, dialogischer Austausch mit der inneren Stimme.
+
+## Barrierefreiheit
+
+Das Spiel ist vollständig per TTS (Text-to-Speech) nutzbar.
+Für Legastheniker wird parallel zum gesprochenen Text immer auch der lesbare Text im Chatfenster angezeigt.
+So können Spieler je nach Stärke besser hören oder lesen.
+
 ## Spielwelt
 
 - Interaktive Amerika-Karte mit ca. 30 Punkten/Städten
